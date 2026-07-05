@@ -1,2 +1,2 @@
 # Workbench
-A free Unreal Engine plugin with workflow tools for cinematic, previs and virtual production artists.
+Workbench is a free Unreal Engine plugin that streamlines everyday workflows for cinematic, previs, and virtual production artists
