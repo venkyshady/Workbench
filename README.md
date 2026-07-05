@@ -6,24 +6,24 @@ Workbench is a free Unreal Engine plugin that streamlines everyday workflows for
 
 ## Supported Unreal Engine Versions
 
-- ✅ Unreal Engine 5.6.1
+-  Unreal Engine 5.6.1
 
 ---
 
 ## Features
 
-### 📷 Camera Ripper
+###  Camera Ripper
 - Import Camera FBX
 - Create Image Plate
 - Image Plate Visibility
 - Image Plate Opacity
 
-### 📏 Measurement Tool
+###  Measurement Tool
 - Click-to-Measure
 - Save Measurement
 - Unit Conversion
 
-### 🛠 Utilities
+###  Utilities
 - Sequencer Visibility
 - Length Converter
 
