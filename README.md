@@ -103,7 +103,7 @@ Environment Art • Layout • Techvis • Set Dressing
 ### Key Features
 
 - Toggle Sequencer visibility for selected actors
-- Quickly manage Hidden In Game and Hidden Shadow settings
+- Quickly manage Hidden In Game and Hidden Shadow insequencer settings
 - Built-in Length Converter with multiple unit support
 - Designed to speed up repetitive editor tasks
 
