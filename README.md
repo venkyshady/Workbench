@@ -24,10 +24,10 @@ A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtua
 
 
 
-- Import FBX cameras into Sequencer
-- Automatic Image Plate setup
-- Media Player creation
-- Opacity & visibility controls
+- Batch import FBX cameras directly into Sequencer
+- Automatically create Image Plate and Media Player assets
+- One-click Image Plate setup
+- Built-in opacity and visibility controls
 
 **Best For:**  
 Cinematics • Previs • Virtual Production
