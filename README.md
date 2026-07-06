@@ -13,7 +13,36 @@ A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtua
 
 ## Features
                                                       Camera Ripper
-<img width="422" height="251" alt="CameraRipper" src="https://github.com/user-attachments/assets/3522045a-6cf1-4cae-ae9d-791466a6d838" />
+                                  "A streamlined camera import workflow for Unreal Engine"
+
+
+-<table>
+<tr>
+<td width="50%" valign="top">
+
+
+
+
+
+- Import FBX cameras into Sequencer
+- Automatic Image Plate setup
+- Media Player creation
+- Opacity & visibility controls
+
+**Best For:**  
+Cinematics • Previs • Virtual Production
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="Images/CameraRipper.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+
 
                                                      Measurement Tool
 <img width="422" height="156" alt="MeasurementTool" src="https://github.com/user-attachments/assets/b0e9920d-b59a-4d22-bd15-5067a8077a00" />
