@@ -1,8 +1,9 @@
-# Workbench
+# WORKBENCH
 
-Workbench is a free Unreal Engine plugin that streamlines everyday workflows for cinematic, previs, and virtual production artists.
+A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtual production artists.
 
----
+<img width="426" height="751" alt="FullSnap" src="https://github.com/user-attachments/assets/4f3953ad-cd5e-471b-8910-358cf6b85728" />
+
 
 ## Supported Unreal Engine Versions
 
@@ -12,20 +13,16 @@ Workbench is a free Unreal Engine plugin that streamlines everyday workflows for
 
 ## Features
 
-###  Camera Ripper
-- Import Camera FBX
-- Create Image Plate
-- Image Plate Visibility
-- Image Plate Opacity
+📷 Camera Ripper
+<img width="422" height="251" alt="CameraRipper" src="https://github.com/user-attachments/assets/3522045a-6cf1-4cae-ae9d-791466a6d838" />
 
-###  Measurement Tool
-- Click-to-Measure
-- Save Measurement
-- Unit Conversion
 
-###  Utilities
-- Sequencer Visibility
-- Length Converter
+📏 Measurement Tool
+<img width="422" height="160" alt="MeasurementTool" src="https://github.com/user-attachments/assets/6790a2a5-4a4e-4a49-b2fe-bd1bf730e4d7" />
+
+
+📐 Utilities
+<img width="422" height="264" alt="Utilities" src="https://github.com/user-attachments/assets/f941fce7-a693-4d64-9984-c16bc27c33fd" />
 
 ---
 
@@ -44,7 +41,7 @@ Workbench is a free Unreal Engine plugin that streamlines everyday workflows for
 - Techviz Tools
 - Material Library
 - PCG Library
-- Additional Workflow Utilities
+- Additional Utilities
 
 ---
 
