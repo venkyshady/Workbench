@@ -72,7 +72,7 @@ Cinematics • Previs • Virtual Production
 - Click anywhere in the viewport to measure distance
 - Live measurement preview
 - Save measurements directly into the level
-- Supports Centimeter, Meter and Feet units
+- Supports converting from Centimeter, Meter and Feet units
 
 **Best for:**
 
