@@ -16,14 +16,14 @@ A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtua
                                   "A streamlined camera import workflow for Unreal Engine"
 
 
--<table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
 
 
 
-
+  Key Features
 - Batch import FBX cameras directly into Sequencer
 - Automatically create Image Plate and Media Player assets
 - One-click Image Plate setup
@@ -45,13 +45,68 @@ Cinematics • Previs • Virtual Production
 
 
                                                      Measurement Tool
-<img width="422" height="156" alt="MeasurementTool" src="https://github.com/user-attachments/assets/b0e9920d-b59a-4d22-bd15-5067a8077a00" />
+                                   "Measure distances directly inside the Unreal Editor"
+
+                                   
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+  Key Features
+
+- Click anywhere in the viewport to measure distance
+- Live measurement preview
+- Save measurements directly into the level
+- Supports Centimeter, Meter and Feet units
+
+**Best for:**
+
+Environment Art • Layout • Techvis • Set Dressing
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="Images/MeasurementTool.png" width="95%">
+
+</td>
+
+</tr>
+</table>
 
                                                         Utilities
- <img width="422" height="264" alt="Utilities" src="https://github.com/user-attachments/assets/f941fce7-a693-4d64-9984-c16bc27c33fd" />
+                             "Everyday workflow utilities for faster scene management"
 
----
 
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Key Features
+
+- Toggle Sequencer visibility for selected actors
+- Quickly manage Hidden In Game and Hidden Shadow settings
+- Built-in Length Converter with multiple unit support
+- Designed to speed up repetitive editor tasks
+
+**Best for:**
+
+Lighting • Layout • Environment Art • Virtual Production
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="Images/Utilities.png" width="95%">
+
+</td>
+
+</tr>
+</table>
 ## Installation
 
 1. Download the latest Release.
