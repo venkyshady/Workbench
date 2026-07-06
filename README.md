@@ -25,7 +25,7 @@ A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtua
 
 ---
 
-## Features
+## Featured Tools
                                                       Camera Ripper
                                   "A streamlined camera import workflow for Unreal Engine"
 
