@@ -43,8 +43,6 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
 - One-click Image Plate setup
 - Built-in opacity and visibility controls
 
-**Best For:**  
-Cinematics • Previs • Virtual Production
 
 </td>
 
@@ -74,9 +72,6 @@ Cinematics • Previs • Virtual Production
 - Save measurements directly into the level
 - Supports converting from Centimeter, Meter and Feet units
 
-**Best for:**
-
-Environment Art • Layout • Techvis • Set Dressing
 
 </td>
 
@@ -106,9 +101,6 @@ Environment Art • Layout • Techvis • Set Dressing
 - Built-in Length Converter with multiple unit support
 - Designed to speed up repetitive editor tasks
 
-**Best for:**
-
-Lighting • Layout • Environment Art • Virtual Production
 
 </td>
 
