@@ -2,7 +2,21 @@
 
 A free Unreal Engine plugin with tools for cinematic, previs, postvis and virtual production artists.
 
-<img width="426" height="751" alt="FullSnap" src="https://github.com/user-attachments/assets/4f3953ad-cd5e-471b-8910-358cf6b85728" />
+<table>
+<tr>
+
+<td align="center" width="50%">
+<b>Light Mode</b><br><br>
+<img src="Images/Workbench.png" width="95%">
+</td>
+
+<td align="center" width="50%">
+<b>Dark Mode</b><br><br>
+<img src="Images/Workbench_Darkmode.png" width="95%">
+</td>
+
+</tr>
+</table>
 
 
 ## Supported Unreal Engine Versions
