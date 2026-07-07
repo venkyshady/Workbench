@@ -54,9 +54,9 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
   
   FBX Name : SH010_001_v001.fbx
   
-  Folder name becomes : SH010_001
+  Folder Name Becomes : SH010_001
   
-  Sequence name becomes : SH010_001_v001
+  Sequence Name Becomes : SH010_001_v001
 
 
 </td>
