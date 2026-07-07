@@ -41,7 +41,22 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
 - Batch import FBX cameras directly into Sequencer
 - Automatically create Image Plate and Media Player assets
 - One-click Image Plate setup
-- Built-in opacity and visibility controls
+- Built-in opacity and visibility controls.
+  
+**  Before using**
+- Select the destination folder in the Content Browser first.
+- The camera inside the FBX must have the same name as the FBX file
+  
+**Naming **
+- Camera FBX files should follow a versioned naming convention (e.g. SH010_001_v001.fbx).
+  
+  Example Below
+  
+  FBX Name : SH010_001_v001.fbx
+  
+  Folder name becomes : SH010_001
+  
+  Sequence name becomes : SH010_001_v001
 
 
 </td>
