@@ -39,9 +39,10 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
 
   Key Features
 - Batch import FBX cameras directly into Sequencer
-- Automatically create Image Plate and Media Player assets
+- Automatically creates the shot folder and Level Sequence
+- Automatically creates Image Plate and Media Player assets
 - One-click Image Plate setup
-- Built-in opacity and visibility controls.
+- Built-in Image Plate opacity and visibility controls.
   
 **  Before using**
 - Select the destination folder in the Content Browser first.
