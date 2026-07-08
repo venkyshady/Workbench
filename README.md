@@ -134,8 +134,11 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
 2. Extract the ZIP.
 3. Copy the **Workbench** folder into your project's **Plugins** folder.
 4. Restart Unreal Engine.
-5. Launch the Workbench Editor Utility Widget.
+5. Launch Workbench by clicking the **Workbench** button in the Unreal Engine toolbar.
 
+<p align="center">
+  <img src="Images/Toolbar%20Menu.png" alt="Workbench Toolbar Button" width="900"/>
+</p>
 ---
 
 ## Roadmap
