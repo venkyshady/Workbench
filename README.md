@@ -21,7 +21,8 @@ Workbench is a collection of workflow tools that automate everyday tasks for art
 
 ## Supported Unreal Engine Versions
 
--  Unreal Engine 5.6.1 - 5.8
+-  Unreal Engine 5.6.1
+-  For UE 5.8 https://www.fab.com/listings/ea98f6d6-261e-45d5-b200-17f8281b178b
 
 ---
 
